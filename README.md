@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniel Anner 👋
 
-
+- 💼 I'm currently working at: Noblis contracting with The Federal Aviation Administration (FAA)
 - 🔭 I’m currently studying at: Stockton University Masters of Science
 - 🌱 I’m currently learning: Data Science & Strategic Analysis
 - 👯 I’m looking to collaborate on: Python projects, Web Dev (Angular is my strong suite), & More
