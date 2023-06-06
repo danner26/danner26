@@ -1,13 +1,14 @@
 <h1 align="center">Hello! I'm Daniel W. Anner <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 
-- 💼 I'm currently working at: Noblis contracting with The Federal Aviation Administration (FAA)
-- 🔭 I have acquired my Masters of Science Degree in Data Science & Strategic Analysis, along with my Bachelors in Computer Science & Info Systems concentrating in Computer Science
-- 🌱 I’m currently learning: anything and everything I can get my hands on
-- 👯 I’m looking to collaborate on: Python projects, Web Dev (Angular is my strong suite), & More
-- 🤔 I’m looking for help with: Python Flask development
-- 💬 Ask me about Python, Web-development, JavaScript/TypeScript and more - most people identify me as a jack of all trades
+- 💼 I'm currently working at: Noblis, contracting with The Federal Aviation Administration (FAA)
+- 👨‍🎓 I have a MS in Data Science & Strategic Analysis, along with my BS in CompSci & Info Systems (concentrated in CompSci)
+- 📜 Recently I because an [F5 Certified Administrator](https://education.f5.com/hc/en-us/articles/4403998031643-Application-Delivery-Fundamentals-101-) (F5-CA - Check my [LinkedIn](https://www.linkedin.com/in/danner26/details/certifications/) for more)
+- 🌱 I’m currently learning: Fedora/RedHat CoreOS (Butane, Ignition and Layering)
+- 🏗️ Maintainer for the [NetBox Community](https://github.com/netbox-community)
+- 🤝🏼 I’m looking to collaborate on: Python & Ansible, NetBox
+- 💬 Ask me about Python, System Administration, Network Engineering and more - identify as a jack of all trades
 - 📫 The email listed here at GitHub is the best way to contact me
-- ⚡ Fun fact: Rabbits make great pets, I have 2!
+- 🐰 Fun fact: Rabbits make great pets, I have 2!
 
 <p align="center">
   <a href="https://github.com/danner26">
