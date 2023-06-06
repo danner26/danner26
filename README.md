@@ -27,3 +27,20 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
 <img align="left" alt="bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
+
+<details>
+<p align="center">
+  <a href="https://github.com/danner26">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danner26&theme=transparent" />
+  </a>
+  <a href="https://github.com/danner26">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=danner26&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/danner26">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danner26&theme=transparent" />
+  </a>
+  <a href="https://github.com/danner26">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danner26&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
