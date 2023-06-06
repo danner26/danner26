@@ -54,6 +54,6 @@
 
 <p align="center">
   <a href="https://github.com/danner26">
-    <img src="https://komarev.com/ghpvc/?username=danner26&color=blue&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=danner26&color=yellow&style=for-the-badge)" />
   </a>
 </p>
