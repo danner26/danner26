@@ -45,5 +45,8 @@
   <a href="https://github.com/danner26">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danner26&theme=transparent&langs_count=10&hide=jupyter%20notebook,makefile,batchfile,css,html,r,scss" />
   </a>
+  <a href="https://github.com/danner26">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=danner26" />
+  </a>
 </p>
 </details>
