@@ -9,10 +9,10 @@
 - 📫 The email listed here at GitHub is the best way to contact me
 - ⚡ Fun fact: Rabbits make great pets, I have 2!
 
-
+<p align="center">
 ![dasith github stats](https://github-readme-stats.vercel.app/api?username=danner26&count_private=true&show_icons=true&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000)
 ![myskills](https://github-readme-stats.vercel.app/api/top-langs/?username=danner26&layout=compact&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000)
-
+</p>
 
 ### Skills : <br/>
 
