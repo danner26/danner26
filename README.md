@@ -33,6 +33,11 @@
 <img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
 <img align="left" alt="bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 
+
+## [NetBox devicetype-library](https://github.com/netbox-community/devicetype-library) contributors
+[![Top contributors](https://images.repography.com/29023055/netbox-community/devicetype-library/top-contributors/IQ66unPr_3yakf4t8xrIDNs7HYm7Y27vqqPVb0hALrw/fvetSKolQkdf7iCAX-fvsK18ozd0NKt3tR39KDoQuow_table.svg)](https://github.com/netbox-community/devicetype-library/graphs/contributors)
+
+
 <br/>
 <br/>
 <br/>
