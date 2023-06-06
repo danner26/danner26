@@ -1,4 +1,4 @@
-### Hi there, I'm Daniel Anner 👋
+<h1 align="center">Hello! I'm Daniel W. Anner <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 
 - 💼 I'm currently working at: Noblis contracting with The Federal Aviation Administration (FAA)
 - 🔭 I have acquired my Masters of Science Degree in Data Science & Strategic Analysis, along with my Bachelors in Computer Science & Info Systems concentrating in Computer Science
