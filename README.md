@@ -43,7 +43,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danner26&theme=transparent" />
   </a>
   <a href="https://github.com/danner26">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danner26&theme=transparent&langs_count=10&hide=jupyter%20notebook,makefile,batchfile,css,html" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danner26&theme=transparent&langs_count=10&hide=jupyter%20notebook,makefile,batchfile,css,html,r,scss" />
   </a>
 </p>
 </details>
