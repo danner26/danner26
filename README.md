@@ -10,8 +10,12 @@
 - ⚡ Fun fact: Rabbits make great pets, I have 2!
 
 <p align="center">
-![dasith github stats](https://github-readme-stats.vercel.app/api?username=danner26&count_private=true&show_icons=true&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000)
-![myskills](https://github-readme-stats.vercel.app/api/top-langs/?username=danner26&layout=compact&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000)
+  <a href="https://github.com/danner26">
+    <img src="https://github-readme-stats.vercel.app/api?username=danner26&count_private=true&show_icons=true&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000" />
+  </a><br/>
+  <a href="https://github.com/danner26">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danner26&layout=compact&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000" />
+  </a>
 </p>
 
 ### Skills : <br/>
