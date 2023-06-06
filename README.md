@@ -55,6 +55,9 @@
 
 <p align="center">
   <a href="https://github.com/danner26">
-    <img src="https://komarev.com/ghpvc/?username=danner26&color=yellow&style=for-the-badge)" />
+    <img src="https://komarev.com/ghpvc/?username=danner26&color=yellow&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/danner26/">
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" />
   </a>
 </p>
