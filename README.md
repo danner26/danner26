@@ -51,4 +51,9 @@
     </a>
   </p>
 </details>
-  
+
+<p align="center">
+  <a href="https://github.com/danner26">
+    <img src="https://komarev.com/ghpvc/?username=danner26&color=blue&style=flat)" />
+  </a>
+</p>
