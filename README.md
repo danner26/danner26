@@ -43,7 +43,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danner26&theme=transparent" />
   </a>
   <a href="https://github.com/danner26">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danner26&langs_count=10&layout=default&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danner26&theme=transparent" />
   </a>
 </p>
 </details>
