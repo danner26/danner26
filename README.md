@@ -5,6 +5,7 @@
 - 📜 Recently I became an [F5 Certified Administrator](https://education.f5.com/hc/en-us/articles/4403999362715-TMOS-Administration-201-) (F5-CA - Check my [LinkedIn](https://www.linkedin.com/in/danner26/details/certifications/) for more)
 - 🌱 I’m currently learning: Fedora/RedHat CoreOS (Butane, Ignition and Layering)
 - 🏗️ Maintainer for the [NetBox Community](https://github.com/netbox-community)
+- 💼 Owner of [Dan's Tech Support LLC](https://danstechsupport.com)
 - 🤝🏼 I’m looking to collaborate on: Python & Ansible, NetBox
 - 💬 Ask me about Python, System Administration, Network Engineering and more - identify as a jack of all trades
 - 📫 The email listed here at GitHub is the best way to contact me
